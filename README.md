@@ -14,5 +14,5 @@
         - `leetcode-queue-using-stacks.c`: This is only if youre pasting the code into leetcode (https://leetcode.com/problems/implement-queue-using-stacks/). It does not define its own queue or data.
 - ### Video
     - **File**
-        - `explaination-video.mkv`: This is a video walking through and explaining the code, its also posted on blackboard via OneDrive if needed (https://texastechuniversity-my.sharepoint.com/:v:/g/personal/aundire_ttu_edu/EU2SzT0Mi_RLrDdUbwSZLTcBRe4tNX82W0n3IGvr2kOhmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cYxbTd).
+        - `explaination-video-2.mkv`: This is a video walking through and explaining the code, its also posted on blackboard via OneDrive if needed (https://texastechuniversity-my.sharepoint.com/:v:/g/personal/aundire_ttu_edu/EU2SzT0Mi_RLrDdUbwSZLTcBRe4tNX82W0n3IGvr2kOhmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cYxbTd).
 
